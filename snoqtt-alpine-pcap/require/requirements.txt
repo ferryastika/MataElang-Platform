@@ -1,0 +1,6 @@
+paho-mqtt
+flask
+requests
+tinydb
+dpkt
+snortunsock
