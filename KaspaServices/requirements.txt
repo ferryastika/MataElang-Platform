@@ -21,6 +21,6 @@ pylint==1.9.2
 python-dotenv==0.9.1
 singledispatch==3.4.0.3
 six==1.11.0
-waitress==1.1.0
+waitress==2.1.1
 Werkzeug==0.14.1
 wrapt==1.10.11
